@@ -1,0 +1,15 @@
+body {
+  background-color: white;
+  color: white;
+}
+
+h1 {
+  font-family: 'Tenor Sans' , sans-serif;
+  color: Gray;
+  text-align: center;
+}
+
+img {
+  margin: 0 auto; display: block;
+  padding: 10px
+}
